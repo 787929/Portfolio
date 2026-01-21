@@ -1,4 +1,4 @@
-##Repetition Structure 
+## Repetition Structure 
 
 I used for loops to iterate through all of the slots allocated to that specific type of feature. I used it specifically for loops as they iterate through one slot at a time and have everything required to iterate through all the slots in an array.
 

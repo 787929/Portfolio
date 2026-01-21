@@ -1,5 +1,14 @@
 ## Variables & Data Tracking
 
+int worldWidth = 50;
+int worldHeight = 200;
+int tileSize = 100;
+int[] tileID = new int[worldWidth * worldHeight];
+int[] tileStrength = new int[worldWidth * worldHeight];
+boolean[] tileHasCollision = new boolean[worldWidth * worldHeight];
+int[] tilePartID = new int[]{0, 4, 0, 4, 4, 2, 5, 1, 5, 5, 6, 2, 6, 6, 7, 7, 7, 3};
+int worldX, worldY, tileState, tileSelected;
+
 I used floats for any x, y, vx and vy values to allow for a more resilient to decimals as there will be division and multiplication which can return a decimal.
 The First way I used integers for IDs as it would never be a decimal, it is also easier to pick up the ID system as it all is whole numbers that follow a theme.
 The second way I used integers for amounts and timers as they are easier to work with and they also will never be a decimal.

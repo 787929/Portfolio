@@ -15,6 +15,3 @@ My intrests in computer science is making video games and exploring complex syst
 - Concept I learned: How to make world generation, deeping understanding of arrays, creating a moving camera, crafting and inventory systems.
 - [Learning Logs](./posts/learning_logs.md)
 - Blog/Reflection: [Reflection](./posts/second_reflection.md)
-
----
-*Update this page by editing `index.md` in your repository.*

@@ -2,7 +2,7 @@
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My intrests in computer science is making video games and exploring complex systems like optimizing, rendering and more. My goals for computer science is to become an indie game developer as a passion and stem more into a tech side of engineering.
 
 ## Highlights
 ### Project 1

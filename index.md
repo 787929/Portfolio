@@ -2,7 +2,7 @@
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-# Project 1
+### Project 1
 - Project 1: [Climb To The Sky](./posts/project_1) – A arcade style climbing game.
 - Concept I learned: How to use arrays, move objects, animations and import images.
 - Blog/Reflection: [Reflection #1](./posts/first_reflection.md)

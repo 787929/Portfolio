@@ -1,3 +1,3 @@
-[Alt text](Project2.png)
+[Alt text](./assets/Project2.png)
 
 **[Go Back](/index.md)**

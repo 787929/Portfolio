@@ -3,7 +3,7 @@
 ### int[] itemIsPlaceable = new int[]{1, 3, 4, 6, 8, 9, 10, 12, 13, 14, 15, 16};
 ### int[] itemIsWeapon = new int[]{101, 104, 107, 110};
 ### int[] itemIsAmulet = new int[]{102, 105, 108, 111};
-### 
+
 ### int[] itemID = new int[50];
 ### int[] itemAmount = new int[50];
 ### int[] itemDeathTimer = new int[50];

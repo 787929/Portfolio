@@ -10,12 +10,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ### Project 2
 - Project 2: [Forge The Deep](./posts/project_2) – A 2D mining game.
 - Concept I learned: How to make world generation, deeping understanding of arrays, creating a moving camera, crafting and inventory systems.
-- [Learning Log #1]()
-- [Learning Log #2]()
-- [Learning Log #3]()
-- [Learning Log #4]()
-- [Learning Log #5]()
-- Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- [Learning Logs](learning_logs)
+- Blog/Reflection: [Reflection #1](./posts/second_reflection.md)
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
